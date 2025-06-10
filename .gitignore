@@ -1,0 +1,8 @@
+# Ignore Eclipse metadata and internal files
+.metadata/
+*.log
+*.tmp
+*.swp
+.classpath
+.project
+.settings/
