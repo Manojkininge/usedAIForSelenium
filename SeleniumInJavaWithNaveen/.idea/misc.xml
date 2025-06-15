@@ -8,5 +8,8 @@
       </list>
     </option>
   </component>
+  <component name="ProjectResources">
+    <resource url="M:\IT\SeleniumPracticeTill10_july\SeleniumInJavaWithNaveen\target\failsafe-reports\failsafe-summary.xml" location="$PROJECT_DIR$/target/" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
 </project>

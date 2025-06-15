@@ -1,6 +1,6 @@
-package stepdefinations;
+package stepdefinitions;
 
-import org.testng.Assert;
+import org.junit.Assert;
 
 import com.pages.LoginPage;
 import com.qa.factory.DriverFactory;
