@@ -17,7 +17,7 @@ public class LoginPageSteps {
 	public void user_is_on_login_page() throws InterruptedException {
 		
 		DriverFactory.getDriver()
-		.get("https://tutorialsninja.com/demo/");
+		.get("https://tutorialsninja.com/demo/index.php?route=account/login");
 		Thread.sleep(3000);
 	}
 
